@@ -55,7 +55,7 @@
 <br clear="both">
 
 <div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/nayara-porto-799a762a0/" target="_blank">
+  <a href="https://www.linkedin.com/in/nayara-bastos-porto/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
   </a>
   <a href="mailto:bastosnayara24@gmail.com" target="_blank">
