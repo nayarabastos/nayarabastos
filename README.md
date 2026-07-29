@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✩ Cursando Análise e Desenvolvimento de Sistemas<br>✩ Participante do Bootcamp Java da Generation<br>✩ Atualmente focada em Desenvolvimento Java Fullstack</p>
+<p data-importer="text" align="left">✩ Cursando Análise e Desenvolvimento de Sistemas<br>✩ Participante do Bootcamp Java da Generation<br>✩ Atualmente focada em Desenvolvimento Java Fullstack<br>✩ CCST Certified</p>
 
 ###
 
@@ -27,20 +27,20 @@
   <img width="12" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" alt="Python" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" alt="MySQL" />
+  <img width="6" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="62"  />
+  <img width="9" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="55" alt="Docker" />
